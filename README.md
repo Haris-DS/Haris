@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harry141
-- 👀 I’m interested in Python, Automation and Machine learning
+- 👀 I’m interested in Python, Automation, Data Science and Machine learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me harishabib2@gmail.com
